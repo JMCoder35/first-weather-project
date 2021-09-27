@@ -1,5 +1,3 @@
-import "./styles.css";
-
 let days = [
   "Sunday",
   "Monday",
